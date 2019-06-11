@@ -1,5 +1,12 @@
 # Practica2_Tipologia
 
+PRÁCTICA DE LA ASIGNATURA TIPOLOGIA Y CICLO DE VIDA DE LOS DATOS DEL MASTES DATA SCIENCE DE LA UOC
+
+Integrantes
+- Carlos Herrero
+- Montse Rodriguez
+
+DETALLE FICHEROS:
 
 PRACTICA 2_FINAL --> PDF CON LAS RESPUESTAS PLANTEADAS DEL ENUNCIADO
 
@@ -7,7 +14,7 @@ PRACTICA2_FINAL --> CONTIENE EL CÓDIGO EN R PARA PODER EJECUTAR LOS RESULTADOS
 
 winequality-white --> CONJUNTO DE DATOS SOBRE EL CUAL SE DESARROLLA LA PRÁCTICA. FUENTE KAGGLE.
 
-Recursos
+Recursos:
 
 Los siguientes recursos son de utilidad para la realización de la práctica:
 
